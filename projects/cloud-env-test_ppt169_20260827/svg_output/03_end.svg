@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" data-pptx-page-role="ending">
+  <rect x="0" y="0" width="1280" height="720" fill="#07111F"/>
+  <circle cx="640" cy="330" r="238" fill="#0E2638"/>
+  <circle cx="640" cy="330" r="174" fill="#123B4A"/>
+  <circle cx="640" cy="330" r="112" fill="#22D3A7"/>
+  <g id="success-mark" data-pptx-group="status" data-pptx-name="Success mark" data-pptx-bounds="580 278 126 94">
+    <path d="M 590 328 L 625 363 L 696 287" fill="none" stroke="#07111F" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g id="closing-message" data-pptx-group="title" data-pptx-name="Closing message" data-pptx-bounds="310 518 660 104">
+    <text x="640" y="558" text-anchor="middle" font-family="Microsoft YaHei" font-size="48" font-weight="700" fill="#F4F8FB">环境测试完成</text>
+    <text x="640" y="608" text-anchor="middle" font-family="Microsoft YaHei" font-size="24" fill="#A9BCC8">PPT Master 已就绪，可以开始创作</text>
+  </g>
+  <rect x="536" y="652" width="208" height="5" rx="2.5" fill="#22D3A7"/>
+</svg>
